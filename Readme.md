@@ -120,3 +120,12 @@ See lecture 29
 
 # Signing in Users with OAuth
 See lecture 30
+
+- Redux-form
+- Stripe
+- Passport.js
+- Mongoose
+- mLab
+- heroku
+
+https://dsajfqheiwqhixcnvdsfhajk.localtunnel.me/api/surveys/webhooks
